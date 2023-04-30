@@ -1,10 +1,10 @@
-# **💙 QUEEN Blue 💙** - _A Javascript WhatsApp User Bot_
+# **💙 QUEEN BLUE 💙** - _A Javascript WhatsApp User Bot_
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
 ![cover](https://github.com/technical-naveed/King-MD/blob/c23acbff2173e6872922cde763664f9c3afab208/IMG_20230430_122129.jpg) 
-**Queen Amdi** is an user bot for WhatsApp that allowing you to get done so many tasks. This project mainly focusing on make user's work easy. This project coded with Javascript and Docker. And using **[Baileys](https://github.com/adiwajshing/Baileys)** as the WA Web API. Developer or Team members are not responsible for your usage mistakes and not using wisely. Also, you have no authorities do any modifications to this project. Enjoy!🎈
+**Queen Blue** is an user bot for WhatsApp that allowing you to get done so many tasks. This project mainly focusing on make user's work easy. This project coded with Javascript and Docker. And using **[Baileys](https://github.com/adiwajshing/Baileys)** as the WA Web API. Developer or Team members are not responsible for your usage mistakes and not using wisely. Also, you have no authorities do any modifications to this project. Enjoy!🎈
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechnical-naveed%2FQueenBlue&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 ![Docker Size](https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat&logo=docker&label=Docker+Size)
 ![Docker Pulls](https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat&logo=docker&label=Docker+Pulls)
