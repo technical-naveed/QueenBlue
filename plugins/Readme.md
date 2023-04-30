@@ -1,4 +1,4 @@
-# Queen Amdi 4.0v💃🏻❤️ (Multi-Device version)
+# Queen Blue V1❤️ (Multi-Device version)
 
 You can join Beta Testing WhatsApp Group by invite link :
 <a href="https://chat.whatsapp.com/LhWHB9gftfwIv29C4etUHH">Beta Testing Whatsapp Group</a>
