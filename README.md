@@ -29,7 +29,7 @@
 
 **[» See other deploy methods](https://amdaniwasa.com/#install)**
 
-**[» Queen Amdi announcement group](https://chat.whatsapp.com/InYoHlt2aC3Rie3l8ulR)**
+**[» Queen Blue announcement group](https://chat.whatsapp.com/InYoHlt2aC3Rie3l8ulR)**
 
 ##  Queen💘 Blue Team - TN Force *[ Since 2019 ]*
 
