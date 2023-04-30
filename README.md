@@ -13,11 +13,11 @@
 
 ![size](https://img.shields.io/github/repo-size/technical-naveed/QueenBlue?color=purple&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/technical-naveed/QueenBlue?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=technical%20naveed&color=purple&style=plastic)
 
-### Visit our official Queen Amdi 4.0v [Multi-Device] website for deploy instructions
+### Visit our official Queen Blue [Multi-Device] for deploy instructions
 
-**[» Official Website](https://amdaniwasa.com)**
+**[» Official Website](https://QueenBlue.com)**
 
 ### You can join our Beta Testing WhatsApp Group by this invite link
 
@@ -29,9 +29,9 @@
 
 **[» See other deploy methods](https://amdaniwasa.com/#install)**
 
-**[» Queen Amdi announcement group](https://chat.whatsapp.com/InYoHlt2aURC3Rie3l8ulR)**
+**[» Queen Amdi announcement group](https://chat.whatsapp.com/InYoHlt2aC3Rie3l8ulR)**
 
-## 🐝 Queen Amdi Team - A.N.Tech *[ Since 2016 ]*
+##  Queen💘 Blue Team - A.N.Tech *[ Since 2016 ]*
 
  
 
