@@ -35,7 +35,8 @@
 ## `Than Click On Deploy`
 
 
-### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+### For Heroku Deploy`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 **[» See heroku deploy instructions](https://quwasa.com/#install)**
 
