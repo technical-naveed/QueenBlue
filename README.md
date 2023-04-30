@@ -1,8 +1,7 @@
 # **QUEEN AMDI💃🏻❤️** - _A Javascript WhatsApp User Bot_
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
-![cover](assets/cover.jpg)
-
+![cover](https://github.com/technical-naveed/King-MD/blob/cff48d895d0b4df79b22c973f60dcb60c62e92a7/20230430_121432.jpg)
 **Queen Amdi** is an user bot for WhatsApp that allowing you to get done so many tasks. This project mainly focusing on make user's work easy. This project coded with Javascript and Docker. And using **[Baileys](https://github.com/adiwajshing/Baileys)** as the WA Web API. Developer or Team members are not responsible for your usage mistakes and not using wisely. Also, you have no authorities do any modifications to this project. Enjoy!🎈
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
