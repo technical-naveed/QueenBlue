@@ -30,7 +30,8 @@
 
 ## `Scan QR Code For Session`
 
-[![Queen Blue](https://replit.com/@NaveedDogar1/Queen-Blue) 
+[![Queen Blue](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NaveedDogar1/Queen-Blue) 
+
 ## `Than Click On Deploy`
 
 
