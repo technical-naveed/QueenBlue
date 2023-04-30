@@ -11,9 +11,9 @@
 ![forks](https://img.shields.io/github/forks/technical-naveed/QueenBlue?label=Forks&style=social)
 ![stars](https://img.shields.io/github/stars/technical-naveed/QueenBlue?style=social)
 
-![size](https://img.shields.io/github/repo-size/technical-naveed/QueenBlue?color=purple&label=Repo%20Size&style=plastic)
+![size](https://img.shields.io/github/repo-size/technical-naveed/QueenBlue?color=yellow&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/technical-naveed/QueenBlue?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=technical%20naveed&color=purple&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=technical%20naveed&color=red&style=plastic)
 
 ### Visit our official Queen Blue [Multi-Device] for deploy instructions
 
@@ -25,13 +25,13 @@
 
 ### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-**[» See heroku deploy instructions](https://queeniwasa.com/#install)**
+**[» See heroku deploy instructions](https://quwasa.com/#install)**
 
 **[» See Other Deploy methods](https://queenblue.com/#install)**
 
 **[» Queen Blue Group](https://chat.whatsapp.com/InYoHlt2aC3Rie3l8ulR)**
 
-##  Queen💘 Blue Team - TN Force *[ Since 2019 ]*
+## Team 👑 Queen Blue 💙 - TN Force *[ Since 2019 ]*
 
  
 
