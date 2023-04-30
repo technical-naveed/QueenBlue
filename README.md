@@ -30,8 +30,7 @@
 
 ## `Scan QR Code For Session`
 
-[![Queen Blue](https://replit.com/@NaveedDogar1/Queen-Blue-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
-
+[![Queen Blue](https://replit.com/@NaveedDogar1/Queen-Blue) 
 ## `Than Click On Deploy`
 
 
