@@ -13,7 +13,7 @@
 
 ![size](https://img.shields.io/github/repo-size/technical-naveed/QueenBlue?color=yellow&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/technical-naveed/QueenBlue?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=technical%20naveed&color=red&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=Technical%20Naveed&color=red&style=plastic)
 
 ### Visit our official Queen Blue [Multi-Device] for deploy instructions
 
