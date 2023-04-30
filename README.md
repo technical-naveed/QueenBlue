@@ -30,9 +30,7 @@
 
 ## `Scan QR Code For Session`
 
-[![Queen Blue](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NaveedDogar1/Queen-Blue-Bot-Multi-Device-Qr-Code-Generator?)
-
-) 
+[![Queen Blue](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NaveedDogar1/Queen-Blue?v=1) 
 
 ## `Than Click On Deploy`
 
