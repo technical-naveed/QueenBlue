@@ -25,11 +25,11 @@
 
 ### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-**[» See heroku deploy instructions](https://amdaniwasa.com/#install)**
+**[» See heroku deploy instructions](https://queeniwasa.com/#install)**
 
-**[» See other deploy methods](https://amdaniwasa.com/#install)**
+**[» See Other Deploy methods](https://queenblue.com/#install)**
 
-**[» Queen Blue announcement group](https://chat.whatsapp.com/InYoHlt2aC3Rie3l8ulR)**
+**[» Queen Blue Group](https://chat.whatsapp.com/InYoHlt2aC3Rie3l8ulR)**
 
 ##  Queen💘 Blue Team - TN Force *[ Since 2019 ]*
 
