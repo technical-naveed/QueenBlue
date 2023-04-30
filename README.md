@@ -31,12 +31,12 @@
 
 **[» Queen Amdi announcement group](https://chat.whatsapp.com/InYoHlt2aC3Rie3l8ulR)**
 
-##  Queen💘 Blue Team - A.N.Tech *[ Since 2016 ]*
+##  Queen💘 Blue Team - TN Force *[ Since 2019 ]*
 
  
 
 ## License
-This project is protected by the `GNU General Public License v3.0.`
+This project is protected by the `GNU General Public License v1.0.`
 Do not edit copyright messages!
 
 ## Disclaimer
