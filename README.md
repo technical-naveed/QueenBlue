@@ -38,7 +38,6 @@
 ### For Heroku Deploy`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-**[» See heroku deploy instructions](https://quwasa.com/#install)**
 
 **[» See Other Deploy methods](https://queenblue.com/#install)**
 
