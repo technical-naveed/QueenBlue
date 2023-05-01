@@ -21,7 +21,7 @@
 
 ### You can join our Beta Testing WhatsApp Group by this invite link
 
-**[» Join beta test group](https://chat.whatsapp.com/Kk9FcrtGYzX1xzky4b1aCJ)**
+**[» Join beta test group](https://chat.whatsapp.com/Kk9FcrtGYX1xzky4b1aCJ)**
 
 
 
