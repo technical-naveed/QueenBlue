@@ -1,15 +1,15 @@
 {
-    "QueenAmdiMD": true,
+    "QueenBlue": true,
     "LANGUAGE": "English",
     "LANGCODE": "EN",
     "AUTHOR": "technical-naveed",
     "STRINGS": {
         "amdiModule": {
-            "version": "4.0.7v",
+            "version": "1.0v",
             "existWA": "🔄️ Checking existing WA connection data...",
             "genNEWses": "♻️ Generating new session...",
             "waConImport": "✅ WA connection data imported!",
-            "dbCREATE": "🔄 Amdi DB creating...",
+            "dbCREATE": "🔄 Blue DB creating...",
             "insertWACON": "📥 Inserting WA connection data...",
             "insertWADone": "✅ New login WA connection inserted!",
             "updateWACON": "⬆️ Updating WA connection data....",
@@ -19,7 +19,7 @@
             "ownerCMDonly": "*⛔ This is an owner command!*",
             "cmdBlockByGrpDesc": "❌ *This command blocked for this group!*",
             "defaultWK": "⚒️ *Work Type setted as* ```private```.\n\nUse .settings to change the work type.",
-            "amdiAIChat": "```🤖 Queen Amdi AI chat enabled!💃🏻♥️```",
+            "amdiAIChat": "```🤖 Queen Blue AI chat enabled!💃🏻♥️```",
             "autorejectcall": "```📵 This user enabled auto call rejection!```",
             "autoINBOBLOCK": "⚠️ *This user enabled auto inbox blocker!*",
             "antiFAKEmsg": "*fake WhatsApp numbers are not allowed here!*",
@@ -29,11 +29,11 @@
             "yourOS": "\nWhat is your mobile phone operating system?\n",
             "cmdLimits": "One of your command is under process.\nHold the line, please!😉",
             "nonbtn_listmsg": "_🔢 Please reply the number you want to select._",
-            "connDONE": "```Queen Amdi bot has been successfully activated! ✅```\n\n_Please do not try commands here. This is your bot logs chat._\n\n*Thank you for using Queen Amdi 💌*"
+            "connDONE": "```Queen Blue bot has been successfully activated! ✅```\n\n_Please do not try commands here. This is your bot logs chat._\n\n*Thank you for using Queen Amdi 💌*"
         },
         "amdiMenu": {
-            "panelTitle": "📋 QUEEN AMDI COMMAND LIST 💃🏻♥️",
-            "panelText": "\n\n📚 Queen Amdi Commands are classified into 5 categories :\n\n```01.Primary Commands - All main commands.(Any user allowed)\n\n02.Download Commands - Media downloading commands.\n\n03.Logo Commands - Logo making commands.\n\n04.Admin Commands - Groups related commands.(Only group admins allowed)\n\n05.Profile Commands - Bot settings and bot WhatsApp profile related commands.(Only Bot owner and VIP users allowed)```\n\n*Please choose a command category and get the command list.*",
+            "panelTitle": "📋 QUEEN BLUE COMMAND LIST 💃🏻♥️",
+            "panelText": "\n\n📚 Queen Blue Commands are classified into 5 categories :\n\n```01.Primary Commands - All main commands.(Any user allowed)\n\n02.Download Commands - Media downloading commands.\n\n03.Logo Commands - Logo making commands.\n\n04.Admin Commands - Groups related commands.(Only group admins allowed)\n\n05.Profile Commands - Bot settings and bot WhatsApp profile related commands.(Only Bot owner and VIP users allowed)```\n\n*Please choose a command category and get the command list.*",
             "command": "*Command :* ",
             "desc": "*Description :* ",
             "example": "*Example :* ",
@@ -56,7 +56,7 @@
             "askWhatBan": "🤔 What you want to ban?\n\n.ban user\n.ban group",
             "banEx": ".ban user @user\n.ban user (Reply to user's message)\n.ban group groupJID\n.ban group (Command in group)\n.ban (Command in user's inbox or in group)",
             "banuserEx": "*🤔 Please give me an user*\n\n```.ban user @user\n.ban user (Reply to user's message)\n.ban (Command in user's inbox)```",
-            "noBanOwners": "*👑 Can't ban Queen Amdi developer team!*",
+            "noBanOwners": "*👑 Can't ban Queen Blue developer team!*",
             "noBanMe": "*Can't ban bot number!*",
             "noBanMOD": "*Can't ban Moderator!*",
             "banMsg": "you are banned from using bot‼️",
@@ -158,7 +158,7 @@
             "NEED_FAKE": "*Please reply to a message and give me fake message!*",
             "NEED_DATA": "*Please give correct data in correct format!*\n\n.fakerep this_is_reply_message {jid=CHAT_JID@xxxxxx/user=USER_PHONE_NUMBER}\n\nCHAT_JID: You can get JID address by using *.jid* command.\n\nUSER_PHONE_NUMBER: User phone number with country code. No plus mark(+) and spaces. (Example: 947xxxxxxxx if Sri Lankan number)",
             "NEED_CORRECT_FORMAT": "*Wrong data format!*\n\n.fakerep this_is_reply_message {jid=CHAT_JID@xxxxxx/user=USER_PHONE_NUMBER}\n\nCHAT_JID: You can get JID address by using *.jid* command.\n\nUSER_PHONE_NUMBER: User phone number with country code. No plus mark(+) and spaces. (Example: 947xxxxxxxx if Sri Lankan number)",
-            "OWNER_DETECTED": "*👑 Queen Amdi developer team numbers detected!* You can't make fake reply for their numbers."
+            "OWNER_DETECTED": "*👑 Queen Blue developer team numbers detected!* You can't make fake reply for their numbers."
         },
         "fancy":{
             "FONT_DESC": "Make your text fancy.",
@@ -200,7 +200,7 @@
             "noBanOwners":"*👑 Can't kick Queen Amdi developer team!*",
             "kicked": "*kicked out of the group!*",
             "addDESC": "Add an user to the group.",
-            "addEX": ".add 947xxxxxxxx",
+            "addEX": ".add 923xxxxxxxx",
             "needADDUSER": "*Please give me a WhatsApp number!*",
             "alreadyIN": "*+{} user is already in the group.*",
             "noWhatsApp": "*This user is not in WhatsApp.*",
@@ -308,7 +308,7 @@
             "settingAdded": " *setting changed!*",
             "dataAdded": " *{}* is added as *{}!*",
             "needReplymsg":"*Please reply to a message*",
-            "applyTitle": "🗃️ Queen Amdi Customizer",
+            "applyTitle": "🗃️ Queen Blue Customizer",
             "applyText": "You can customize captions, processing messages, button messages style and button message links.",
             "alreadyCustomized": "*❗This button/template is already customized.*",
             "customAdded": " *customized!*",
