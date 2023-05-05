@@ -10,8 +10,8 @@
 | |\/| | | | | | __| |_____| | | |/ _ \ \ / / |/ __/ _ \
 | |  | | |_| | | |_| |_____| |_| |  __/\ V /| | (_|  __/
 |_|  |_|\__,_|_|\__|_|     |____/ \___| \_/ |_|\___\___|
-* @project_name Queen Amdi [WA Multi-device]
-* @author BlackAmda <https://github.com/BlackAmda>
+* @project_name Queen Blue [WA Multi-device]
+* @author technical-naveed <https://github.com/technical-naveed>
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
 * @link <https://github.com/BlackAmda/QueenAmdi>
 * @version 4.0.7
