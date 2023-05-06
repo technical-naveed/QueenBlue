@@ -1,5 +1,5 @@
 /**
-* @project_name Queen Amdi [WA Multi-device]
+* @project_name Queen Blue [WA Multi-device]
 * @author BlackAmda <https://github.com/BlackAmda>
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
 * @link <https://github.com/BlackAmda/QueenAmdi>
